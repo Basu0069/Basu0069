@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student.</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Basu0069/Basu0069/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bixl007/bixl007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
