@@ -4,13 +4,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Basu0069/Basu0069/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-``` java
-public class welcome
-{
-  public static void main(String args[]){
-    System.out.println("Welcome to my profile");
-  }
-}
+``` 
+
 ```
 
 <h3 align="left">Languages and Tools:</h3>
